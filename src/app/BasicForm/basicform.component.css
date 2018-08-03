@@ -1,0 +1,38 @@
+.example-form {
+   padding-left: 20%;
+    min-width: 200px;
+    max-width: 900px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }  
+  .example-button-row {
+    padding-left: 35%;
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-around;
+   
+  }
+  
+  .example-button-row button,
+  .example-button-row a {
+    margin-right: 10px;
+ 
+  }
+  /* This css file is to over write bootstarp css
+--------------------------------------------------------- /
+* Theme Name: Sufee-Admin Admin Template
+* Theme URI: http://demos.jeweltheme.com/Sufee-Admin/
+* Author: jewel_theme
+* Author URI: http://themeforest.net/user/jewel_theme/portfolio
+* Description:
+* Version: 1.0.0
+* License: GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Tags: html, themplate, Sufee-Admin
+--------------------------------------------------------- */
+/* Bootstrap */
+.card-body {
+  padding: 15px; }
